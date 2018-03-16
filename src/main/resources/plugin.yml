@@ -1,0 +1,24 @@
+name: Cartographer
+author: Minespree
+main: net.minespree.cartographer.CartographerPlugin
+version: 1.0
+softdepend: [FeatherPlugin]
+
+commands:
+  mapwand:
+    description: Custom map wand tool command.
+  skywars:
+    aliases: [sw]
+    description: The skywars map creation command.
+  blockwars:
+    aliases: [bw]
+    description: The blockwars map creation command.
+  thimble:
+    aliases: [th]
+    description: The thimble map creation command.
+  doubletrouble:
+    aliases: [dt]
+    description: The doubletrouble map creation command.
+  clash:
+    aliases: [cl]
+    description: The clash map creation command.
